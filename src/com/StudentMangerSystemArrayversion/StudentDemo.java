@@ -1,4 +1,4 @@
-package com.test;
+package com.StudentMangerSystemArrayversion;
 
 import java.util.ArrayList;
 import java.util.Scanner;

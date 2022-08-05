@@ -1,4 +1,4 @@
-package com.test;
+package com.StudentMangerSystemArrayversion;
 
 /*
 学生类
