@@ -1,4 +1,4 @@
-package unit_22jinjiejihe;
+package unit_22jinjiejihe.ListTest;
 
 import unit_22jinjiejihe.CollectionDemo.Student;
 
@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class ListDemo2 {
+public class ListDemo3 {
     public static void main(String[] args) {
         //创建list集合对象
         List<Student> list = new ArrayList<Student>();
